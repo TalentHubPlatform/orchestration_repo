@@ -1,0 +1,6 @@
+[submodule "services/testing_service"]
+	path = services/testing_service
+	url = git@github.com:TalentHubPlatform/testing_service.git
+[submodule "services/blog_news_service"]
+	path = services/blog_news_service
+	url = git@github.com:TalentHubPlatform/blog_news_service.git
